@@ -1,1 +1,1 @@
-Advanced Python Programs with some mini Projects.
+Advanced Python Concepts with some Mini Projects.
